@@ -1,0 +1,22 @@
+body{
+	background: no-repeat url("../images/background.jpg");
+	color: white;
+	background-size: cover;
+}
+
+h1{
+	font-size: 3em;
+}
+
+p{
+	font-size: 150%;
+	
+}
+
+div{
+	margin: 10px;
+}
+
+.main{
+	display: flex;
+}
